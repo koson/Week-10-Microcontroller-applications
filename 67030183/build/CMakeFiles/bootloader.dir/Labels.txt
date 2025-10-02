@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/Year2/Lab10-Microcontroller/Week-10-Microcontroller-applications/67030183/build/CMakeFiles/bootloader
+D:/Year2/Lab10-Microcontroller/Week-10-Microcontroller-applications/67030183/build/CMakeFiles/bootloader.rule
+D:/Year2/Lab10-Microcontroller/Week-10-Microcontroller-applications/67030183/build/CMakeFiles/bootloader-complete.rule
+D:/Year2/Lab10-Microcontroller/Week-10-Microcontroller-applications/67030183/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/Year2/Lab10-Microcontroller/Week-10-Microcontroller-applications/67030183/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/Year2/Lab10-Microcontroller/Week-10-Microcontroller-applications/67030183/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/Year2/Lab10-Microcontroller/Week-10-Microcontroller-applications/67030183/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/Year2/Lab10-Microcontroller/Week-10-Microcontroller-applications/67030183/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/Year2/Lab10-Microcontroller/Week-10-Microcontroller-applications/67030183/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/Year2/Lab10-Microcontroller/Week-10-Microcontroller-applications/67030183/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
